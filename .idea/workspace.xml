@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a759ac7c-0396-4e38-bd95-68f06ae13353" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inclass-ecommerce.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/buttons.css" afterPath="$PROJECT_DIR$/css/buttons.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styleguide/buttons.html" afterPath="$PROJECT_DIR$/styleguide/buttons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/common.css" afterPath="$PROJECT_DIR$/css/common.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/embed.css" afterPath="$PROJECT_DIR$/css/embed.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/grid.css" afterPath="$PROJECT_DIR$/css/grid.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/humans.txt" afterPath="$PROJECT_DIR$/humans.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styleguide/inclass-grid.html" afterPath="$PROJECT_DIR$/styleguide/inclass-grid.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/list-group.css" afterPath="$PROJECT_DIR$/css/list-group.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styleguide/list-group.html" afterPath="$PROJECT_DIR$/styleguide/list-group.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/media-object.css" afterPath="$PROJECT_DIR$/css/media-object.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styleguide/media-object.html" afterPath="$PROJECT_DIR$/styleguide/media-object.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/product.css" afterPath="$PROJECT_DIR$/css/product.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styleguide/product.html" afterPath="$PROJECT_DIR$/styleguide/product.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/typography.css" afterPath="$PROJECT_DIR$/css/typography.css" />
     </list>
     <ignored path="inclass-ecommerce.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -142,7 +149,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="22" width="1400" height="795" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -176,16 +183,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/styleguide/inclass-grid.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="0" selection-start="1884" selection-end="2449" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1530">
-          <folding />
-        </state>
+        <state line="55" column="0" selection-start="1884" selection-end="2449" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1530" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styleguide/inclass-grid.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="53" selection-start="595" selection-end="595" vertical-scroll-proportion="0.28931752" vertical-offset="0" max-vertical-offset="1530">
-          <folding />
-        </state>
+        <state line="13" column="53" selection-start="595" selection-end="595" vertical-scroll-proportion="0.28931752" vertical-offset="0" max-vertical-offset="1530" />
       </provider>
     </entry>
   </component>
