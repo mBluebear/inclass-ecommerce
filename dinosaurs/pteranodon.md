@@ -1,9 +1,4 @@
 ---
-category: dinosaur
-name: Pteranodon
-time_period: Jurassic
-diet: Carnivore
-image: air-dinos/pteranodon.jpg
 ---
 
-The Pteranodon is an amazing flying dinosaur!
+Pterandon is a genus of **pterosaurs** which included some of the largest known flying reptiles.

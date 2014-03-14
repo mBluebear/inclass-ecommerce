@@ -1,16 +1,16 @@
 ---
-
 ---
 
 *Tyrannosaurus* is the most **fierce** dinosaur that ever existed.
 
-The T-Rex lived during the [Late Cretaceous Period.](http://en.wikipedia.org/wiki/Late_Cretaceous)
+The T-Rex lived during the [Late Cretaceous Period](http://en.wikipedia.org/wiki/Late_Cretaceous).
 
-## Features /* start with #: h1, ##: h2 */
+## Features 
 
-- Sharp Teeth /* start with - => order list*/
+- Sharp Teeth
 - Small Arms
 - Thick Tail
 
-![T-Rex Skeleton](http://http://upload.wikimedia.org/wikipedia/commons/9/94/Tyrannosaurus_Rex_Holotype.jpg)
+
+![T-Rex Skeleton](http://www.wired.com/images_blogs/wiredscience/2009/09/dinoauctionsama.jpg)
 ![]({{site.baseurl}}/images/land-dinos/diplodocus.jpg)

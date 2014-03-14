@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a759ac7c-0396-4e38-bd95-68f06ae13353" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/buttons.css" afterPath="$PROJECT_DIR$/css/buttons.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styleguide/buttons.html" afterPath="$PROJECT_DIR$/styleguide/buttons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/common.css" afterPath="$PROJECT_DIR$/css/common.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/embed.css" afterPath="$PROJECT_DIR$/css/embed.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/grid.css" afterPath="$PROJECT_DIR$/css/grid.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/humans.txt" afterPath="$PROJECT_DIR$/humans.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styleguide/inclass-grid.html" afterPath="$PROJECT_DIR$/styleguide/inclass-grid.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/list-group.css" afterPath="$PROJECT_DIR$/css/list-group.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styleguide/list-group.html" afterPath="$PROJECT_DIR$/styleguide/list-group.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/media-object.css" afterPath="$PROJECT_DIR$/css/media-object.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styleguide/media-object.html" afterPath="$PROJECT_DIR$/styleguide/media-object.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/product.css" afterPath="$PROJECT_DIR$/css/product.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styleguide/product.html" afterPath="$PROJECT_DIR$/styleguide/product.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/typography.css" afterPath="$PROJECT_DIR$/css/typography.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dinos.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dinosaurs.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dinosaurs/index.html" afterPath="$PROJECT_DIR$/dinosaurs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dinosaurs/pteranodon.md" afterPath="$PROJECT_DIR$/dinosaurs/pteranodon.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dinosaurs/trex.md" afterPath="$PROJECT_DIR$/dinosaurs/trex.md" />
     </list>
     <ignored path="inclass-ecommerce.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +28,41 @@
     <favorites_list name="inclass-ecommerce" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="trex.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dinosaurs/trex.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="54" selection-start="394" selection-end="394" vertical-scroll-proportion="-8.333333" vertical-offset="0" max-vertical-offset="315">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pteranodon.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dinosaurs/pteranodon.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="56" selection-end="56" vertical-scroll-proportion="-2.7777777" vertical-offset="0" max-vertical-offset="165">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dinosaurs/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="6" selection-start="257" selection-end="257" vertical-scroll-proportion="0.2670623" vertical-offset="0" max-vertical-offset="674">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -47,6 +71,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/dinosaurs/trex.md" />
+        <option value="$PROJECT_DIR$/dinosaurs/pteranodon.md" />
+        <option value="$PROJECT_DIR$/dinosaurs/index.html" />
+      </list>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -113,6 +146,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inclass-ecommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inclass-ecommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dinosaurs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -156,7 +203,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -189,6 +236,33 @@
     <entry file="file://$PROJECT_DIR$/styleguide/inclass-grid.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="53" selection-start="595" selection-end="595" vertical-scroll-proportion="0.28931752" vertical-offset="0" max-vertical-offset="1530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dinosaurs/trex.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="54" selection-start="394" selection-end="394" vertical-scroll-proportion="-8.333333" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dinosaurs/pteranodon.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="56" selection-end="56" vertical-scroll-proportion="-2.7777777" vertical-offset="0" max-vertical-offset="165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dinosaurs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="6" selection-start="257" selection-end="257" vertical-scroll-proportion="0.2670623" vertical-offset="0" max-vertical-offset="674">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
