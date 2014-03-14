@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a759ac7c-0396-4e38-bd95-68f06ae13353" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dinos.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dinosaurs.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dinosaurs/index.html" afterPath="$PROJECT_DIR$/dinosaurs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dinosaurs/pteranodon.md" afterPath="$PROJECT_DIR$/dinosaurs/pteranodon.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dinosaurs/trex.md" afterPath="$PROJECT_DIR$/dinosaurs/trex.md" />
-    </list>
+    <list default="true" id="a759ac7c-0396-4e38-bd95-68f06ae13353" name="Default" comment="" />
     <ignored path="inclass-ecommerce.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +29,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="54" selection-start="394" selection-end="394" vertical-scroll-proportion="-8.333333" vertical-offset="0" max-vertical-offset="315">
+            <state line="16" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="-8.333333" vertical-offset="15" max-vertical-offset="330">
               <folding />
             </state>
           </provider>
@@ -47,7 +41,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="56" selection-end="56" vertical-scroll-proportion="-2.7777777" vertical-offset="0" max-vertical-offset="165">
+            <state line="4" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="-2.2222223" vertical-offset="0" max-vertical-offset="150">
               <folding />
             </state>
           </provider>
@@ -56,7 +50,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dinosaurs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="6" selection-start="257" selection-end="257" vertical-scroll-proportion="0.2670623" vertical-offset="0" max-vertical-offset="674">
+            <state line="17" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.37833828" vertical-offset="0" max-vertical-offset="674">
               <folding />
             </state>
           </provider>
@@ -203,7 +197,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -243,7 +237,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="54" selection-start="394" selection-end="394" vertical-scroll-proportion="-8.333333" vertical-offset="0" max-vertical-offset="315">
+        <state line="16" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="-8.333333" vertical-offset="15" max-vertical-offset="330">
           <folding />
         </state>
       </provider>
@@ -253,14 +247,14 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="56" selection-end="56" vertical-scroll-proportion="-2.7777777" vertical-offset="0" max-vertical-offset="165">
+        <state line="4" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="-2.2222223" vertical-offset="0" max-vertical-offset="150">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dinosaurs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="6" selection-start="257" selection-end="257" vertical-scroll-proportion="0.2670623" vertical-offset="0" max-vertical-offset="674">
+        <state line="17" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.37833828" vertical-offset="0" max-vertical-offset="674">
           <folding />
         </state>
       </provider>
