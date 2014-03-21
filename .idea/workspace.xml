@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a759ac7c-0396-4e38-bd95-68f06ae13353" name="Default" comment="" />
+    <list default="true" id="a759ac7c-0396-4e38-bd95-68f06ae13353" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/dinosaurs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dinosaurs/index.html" afterPath="$PROJECT_DIR$/dinosaurs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dinosaurs/pteranodon.md" afterPath="$PROJECT_DIR$/dinosaurs/pteranodon.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dinosaurs/trex.md" afterPath="$PROJECT_DIR$/dinosaurs/trex.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="inclass-ecommerce.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,14 +30,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="trex.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="trex.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dinosaurs/trex.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="-8.333333" vertical-offset="15" max-vertical-offset="330">
+            <state line="8" column="0" selection-start="145" selection-end="145" vertical-scroll-proportion="0.17883755" vertical-offset="0" max-vertical-offset="671">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dinosaurs.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/dinosaurs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="11" selection-start="177" selection-end="177" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="285">
+              <folding>
+                <marker date="1394827092000" expanded="true" signature="53:163" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,16 +59,25 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="-2.2222223" vertical-offset="0" max-vertical-offset="150">
+            <state line="1" column="15" selection-start="19" selection-end="19" vertical-scroll-proportion="-0.5555556" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dinosaurs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.37833828" vertical-offset="0" max-vertical-offset="674">
+            <state line="16" column="53" selection-start="332" selection-end="332" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="450">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="64" selection-start="864" selection-end="864" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="1290">
               <folding />
             </state>
           </provider>
@@ -69,15 +96,17 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/dinosaurs/trex.md" />
-        <option value="$PROJECT_DIR$/dinosaurs/pteranodon.md" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/dinosaurs/index.html" />
+        <option value="$PROJECT_DIR$/dinosaurs/pteranodon.md" />
+        <option value="$PROJECT_DIR$/dinosaurs/trex.md" />
+        <option value="$PROJECT_DIR$/_layouts/dinosaurs.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
+    <option name="x" value="-350" />
     <option name="y" value="22" />
     <option name="width" value="1400" />
     <option name="height" value="795" />
@@ -154,6 +183,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inclass-ecommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inclass-ecommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -189,15 +232,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="22" width="1400" height="795" extended-state="0" />
-    <editor active="true" />
+    <frame x="-350" y="22" width="1400" height="795" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -232,13 +275,26 @@
         <state line="13" column="53" selection-start="595" selection-end="595" vertical-scroll-proportion="0.28931752" vertical-offset="0" max-vertical-offset="1530" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dinosaurs/trex.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="-8.333333" vertical-offset="15" max-vertical-offset="330">
+        <state line="16" column="64" selection-start="864" selection-end="864" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="1290">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dinosaurs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="53" selection-start="332" selection-end="332" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/dinosaurs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="11" selection-start="177" selection-end="177" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="285">
+          <folding>
+            <marker date="1394827092000" expanded="true" signature="53:163" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -247,14 +303,17 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="-2.2222223" vertical-offset="0" max-vertical-offset="150">
+        <state line="1" column="15" selection-start="19" selection-end="19" vertical-scroll-proportion="-0.5555556" vertical-offset="0" max-vertical-offset="240">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dinosaurs/index.html">
+    <entry file="file://$PROJECT_DIR$/dinosaurs/trex.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.37833828" vertical-offset="0" max-vertical-offset="674">
+        <state line="8" column="0" selection-start="145" selection-end="145" vertical-scroll-proportion="0.17883755" vertical-offset="0" max-vertical-offset="671">
           <folding />
         </state>
       </provider>

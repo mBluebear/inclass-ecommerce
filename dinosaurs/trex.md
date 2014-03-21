@@ -1,4 +1,10 @@
 ---
+layout: dinosaurs
+category: dinosaurs
+title: Tyrannosaurus
+time_period: Late Cretaceous
+diet: Carnivore
+image: land-dinos/diplodocus.jpg
 ---
 
 *Tyrannosaurus* is the most **fierce** dinosaur that ever existed.

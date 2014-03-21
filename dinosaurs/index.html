@@ -12,6 +12,13 @@ title: dinosaurs
 
 <ul>
 	{% for dino in site.pages %}
-		<li>{{dino.url}}</li>
+        {% if dino.category == 'dinosaurs' %}
+		    <li>
+                <a href="{{site.baseurl}}{{dino.url}}">
+                <img src="{{site.baseurl}}/images/{{dino.image}}" alt="">
+                {{dino.title}}
+                </a>
+            </li>
+        {% endif %}
 	{% endfor %}
 </ul>
